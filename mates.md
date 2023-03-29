@@ -1,7 +1,7 @@
 
 # Nuestro cliente es el mejor
 
-esto es un fichero muy chulo.
+esto es un fichero muy chulo. Esto son unos cambios que se aplicaran con rebase
 hola,esto es un fichero de lectura para nuestro repositorio
 
 
