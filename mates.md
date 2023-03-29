@@ -4,4 +4,4 @@ hola,esto es un fichero de lectura para nuestro repositorio
 
 
 
-Esto es una modificacion
+Esto es una modificacion. Y estoy haciendo unos progresos muy chulos que seran interrumpidos que han sigo retomados sin problemas mediante el stash
