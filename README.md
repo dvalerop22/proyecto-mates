@@ -5,4 +5,5 @@ Y ademas nuestro proyecto ya consta de GitHub Pages
 
 # Curso de Matematicas para Git y GitHub
 Aprender las diferentes operaciones de matematicas con un lenguaje diferente a los que anteriormente habiamos utilizado que en este caso sera Python
-
+## Descripcion del curso 
+Curso de matematicas en Python
