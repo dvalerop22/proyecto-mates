@@ -9,3 +9,5 @@ Aprender las diferentes operaciones de matematicas con un lenguaje diferente a l
 Curso de matematicas en Python
 ## ¿Que vamos a aprender?
 En este curso aprenderemos a utilizar y a resolver diversos problemas matematicos simples 
+## ¿A quien le interesa el curso ?
+Este curso va dirigido ademas de para la gente que quiera ir aprendiendo como funciona Git y GitHub ademas de para ayudar a la gente a resolver problemas matematicos simples ya que en el se resuelves las distintas operaciones matematicas
